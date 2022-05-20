@@ -6,7 +6,7 @@
 
 **Thoughts:** Estoy bastante emocionada y a gusto, ya que son temas que he visto pero necesito repasar. No se por que razon no puedo agragar el favicon 😭. Despues de mucho dolor y sufrimiento el problema era que puse el archivo equivocado :(.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**
 
 
 
