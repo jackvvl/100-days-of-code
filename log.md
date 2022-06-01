@@ -17,6 +17,77 @@
 **Link to work:**
 
 
+### Day 4:  30/5/22
 
+**Today's Progress**: He comenzado el curso de js de codigo facilito, he aprendido acerca de los datos primitivos, tambien sobre el for, while, como declarar constantes y variables
+
+**Thoughts:** Me siento bien podria continuar horas mas sino tuviera que ir a la escuela, si bien ya he visto estos temas hay detalles que no sabia y logrado mejorar mi conocimiento.
+
+**Link to work:** Buenop directamente voy apegar todo aquí xD
+for (let i =1 ; i <= 10; i++){
+  console.log(i)
+  if(i == 3){
+  break;}
+}
+
+for (let i =1 ; i <= 10; i++){
+  console.log(i)
+  if(i == 3){
+  continue;}
+  console.log("lo que sea")
+}
+
+let i = 1;
+while(i <=10){
+  console.log(i); i++;
+}
+
+while(prompt()){
+  console.log
+  
+}
+do{
+  console.log("ejecucion")
+}while(prompt())
+  
+/* solo cambia el orden*/
+  
+  /*Undefined cuando no ha sido declarado*/
+  
+  /* null es un objeto asignable*/
+  
+    /* NaN not a number, valor infinito*/
+  
+  
+  /* declaracion de funcion:
+  function saludar(){} 
+  
+  function cuadrado(numero){
+  return numero+numero;
+  }  */
+  
+  function saludar(){
+    console.log("Holam")
+  }
+  
+  saludar();
+
+
+function cuadrado(numero){
+  return numero*numero;
+  } 
+let cuadradodedos = cuadrado(2)
+console.log(cuadradodedos)
+console.log(cuadrado(3))
+
+
+//expresion de funcion
+//let func = function()
+//func();
+
+/// Scope    
+/*Dos tipos
+---->Global 
+-->local*/
 
 
