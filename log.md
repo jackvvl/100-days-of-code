@@ -95,15 +95,17 @@ do{
 
 **Today's Progress**: Hoy aprendi sobre el hoisting, repase un poco las variables, estoy viendo arrelglos, hoisting.
 
-**Thoughts:** Estoy un toque triste porque se está terminando el tiempo que esta gratis el curso de js
+**Thoughts:** Estoy un toque triste porque se está terminando el tiempo que esta gratis el curso de js, aunque no me voy a rendir voy a comenzar el curso de dart el 2 de junio bueno mañana en realidad.
+edit: hace rato me di cuenta de que tengo un dia mas yei mañana voy atrabajar bastante en eso, al final del dia voy a aprender dart
 
 
 
 **Link to work:** 
-    /*Hoisting  */
-function demo(){
+
+    /*Hoisting  
+     function demo(){
     console.log(x)
-  var x;
-}
-demo()
+    var x;
+     }
+    demo()
 
