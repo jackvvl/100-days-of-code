@@ -93,11 +93,17 @@ do{
      
 ### Day 5:  01/6/22
 
-**Today's Progress**: s
+**Today's Progress**: Hoy aprendi sobre el hoisting, repase un poco las variables, estoy viendo arrelglos, hoisting.
 
-**Thoughts:** 
+**Thoughts:** Estoy un toque triste porque se está terminando el tiempo que esta gratis el curso de js
 
 
 
-**Link to work:**
+**Link to work:** 
+    /*Hoisting  */
+function demo(){
+    console.log(x)
+  var x;
+}
+demo()
 
