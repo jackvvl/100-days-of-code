@@ -108,4 +108,14 @@ edit: hace rato me di cuenta de que tengo un dia mas yei mañana voy atrabajar b
     var x;
      }
     demo()
+    let calification = [9, 10, 10, 8]
+
+
+    for(let i = 0;i < arreglo.length; i++){
+     let element = arreglo[i];
+     console.log(element);
+     }
+
+    arreglo.forEach(function(element){ console.log(element) });
+     //ambas realizan lo mismo utilizando diferentes enfoques:
 
