@@ -118,4 +118,34 @@ edit: hace rato me di cuenta de que tengo un dia mas yei mañana voy atrabajar b
 
     arreglo.forEach(function(element){ console.log(element) });
      //ambas realizan lo mismo utilizando diferentes enfoques:
+### Day 6:  3/6/22
+
+**Today's Progress**: Comence con Dart, aprendi a crea variables de un numero entero y decimal, sobre strings, a usar dynamic, var, final ,bool, string, double, y int
+
+**Thoughts:**Bueno se me acabo el tiempo en que estaba gratis el curso de javascript :,v , como para aprovechar los cursos voy hacer las 3 horas del curso de Dart y despues el de bases de datos, encima estoy como justo justito porque no tengo demasiadas tareas ni examenes. En los siguientes voy a estar con el cerebro medio fundido , pero esta vez siento que lo voy a lograr. El curso de Dart son solo 3 hs pero no se nada nada asi que creo que me puedo tomar un toque de hoy y mañana para hacerlo.
+
+**Link to work:**
+  void main() {
+     print("Hello world"); // mi hola mundo en Dart 🥺
+}  
+// crear una variable de un numero entero. Ej 
+int edad = 20
+// crear una variable de un numero decimal. Ej 
+double precio = 25.3
+// para crear strings
+String nombre = "José";
+
+print(nombre)
+
+//El resultado es: José
+
+dynamic cambioDeTipo = 1234
+
+print(cambioDeTipo) // El resultado de esta ejecución será: 1234
+
+cambioDeTipo = "Uno dos tres cuatro"
+
+print(cambioDeTipo) // El resultado de esta ejecución será:"Uno dos tres cuatro"
+
+
 
