@@ -203,3 +203,17 @@ print(libros)
 libros_favoritos = ["El estafador" "jhon Grisham", "Fablehaven", "El señor de los anillos"]
 mejorsito_entre_todos = libros_favoritos[0]
 print(mejorsito_entre_todos)
+
+### Day 8:  6/6/22
+ 
+**Planes** avanzar lo mas posible en el curso de python 
+**Today's Progress**:  aprendí a actualizar un elemento de un lista
+
+**Thoughts:** Estoy emocionada ademas de que ya han anunciado el curso de css para el 8 de junio,
+
+**Link to work:**
+libros_favoritos = ["El estafador" "jhon Grisham", "Fablehaven", "El señor de los anillos"]
+mejorsito_entre_todos = libros_favoritos[0]
+print(mejorsito_entre_todos)
+
+libros_favoritos[1] = ["El niño de pijama a rayas"]
