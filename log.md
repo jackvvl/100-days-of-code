@@ -148,4 +148,58 @@ cambioDeTipo = "Uno dos tres cuatro"
 print(cambioDeTipo) // El resultado de esta ejecución será:"Uno dos tres cuatro"
 
 
+### Day 7:  5/6/22
+ 
+**Planes** avanzar lo mas posible en el curso de python 
+**Today's Progress**:  aprendí sobre variables en python, tipos de datos, arrays , conectores logicos
 
+**Thoughts:** primero me sentia un poco bajoneada por no haber terminado el curso de dart, pero ver el curso de python me animó un poco, lo llevo con bastante onda ademas que el chico del curso mantiene un buen ritmo 
+
+**Link to work:**
+variables=etiquetas
+
+print("Hola Mundo")
+mi_nombre = "Jacqueline Villa" #asi se declara una variable pd: los comentarios se hacen con , es una string
+print(mi_nombre)
+
+"""   #comentario de varias lineas
+hola
+"""
+"""
+#tipos de datos 
+#string
+#int numeros enteros
+numero_uno = 10 +3
+#Float decimales
+numeritos_decimal = 3.8
+#Bool   
+valor = true
+
+OPERADORES RELACIONADOS
+
+OPERADORES LOGICOS
+and, or, not
+"""
+nombre_completo = input("igresa tu nombre:") #string
+print(nombre_completo)
+
+numero_de_telefono = int(input("ingresa tu nmro de telefono por fa"))
+
+#Crear float a partir de una string 
+
+altura = float(input("ingresa tu altura"))
+
+autorizacion = input("autorizas a tu hijo para ir al viaje escolar?(si/no)")== "si"
+print(autorizacion)
+print(altura)
+print(numero_de_telefono)
+
+nombre, apellido,titulo= "Jacqueline", "Villa", "mr"
+
+libros =["señor de los anillos", 10, 15.6, True]#Esta es una lista xd, en lo posible poner un solo tipo de valor e las listas corte solo strings o solo numeros 
+
+print(libros)
+                         #0             #1             #3                #4
+libros_favoritos = ["El estafador" "jhon Grisham", "Fablehaven", "El señor de los anillos"]
+mejorsito_entre_todos = libros_favoritos[0]
+print(mejorsito_entre_todos)
