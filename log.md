@@ -216,4 +216,12 @@ libros_favoritos = ["El estafador" "jhon Grisham", "Fablehaven", "El señor de l
 mejorsito_entre_todos = libros_favoritos[0]
 print(mejorsito_entre_todos)
 
-libros_favoritos[1] = ["El niño de pijama a rayas"]
+libros_favoritos[1] = "El niño de pijama a rayas"
+
+creacionde sub listas
+
+sub_lista = libros_favoritos[0:3]  #0 start hasta el 2 elemento  start:end
+# start: retorna los ultimos elementos de la lista
+#:end retorna los primeros elementos de la lista
+Tambien podemos saltarnos elementos de la lista
+
