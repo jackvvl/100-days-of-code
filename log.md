@@ -225,3 +225,25 @@ sub_lista = libros_favoritos[0:3]  #0 start hasta el 2 elemento  start:end
 #:end retorna los primeros elementos de la lista
 Tambien podemos saltarnos elementos de la lista
 
+### Day 9:  7/6/22
+ 
+**Planes** avanzar lo mas posible en el curso de python 
+**Today's Progress**:  aprendí a actualizar un elemento de un lista
+
+**Thoughts:** Estoy emocionada ademas de que ya han anunciado el curso de css para el 8 de junio,
+
+**Link to work:**
+libros_favoritos = ["El estafador" "jhon Grisham", "Fablehaven", "El señor de los anillos"]
+mejorsito_entre_todos = libros_favoritos[0]
+print(mejorsito_entre_todos)
+
+libros_favoritos[1] = "El niño de pijama a rayas"
+
+creacionde sub listas
+
+sub_lista = libros_favoritos[0:3]  #0 start hasta el 2 elemento  start:end
+# start: retorna los ultimos elementos de la lista
+#:end retorna los primeros elementos de la lista
+Tambien podemos saltarnos elementos de la lista
+
+
