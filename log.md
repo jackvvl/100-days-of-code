@@ -227,23 +227,9 @@ Tambien podemos saltarnos elementos de la lista
 
 ### Day 9:  7/6/22
  
-**Planes** avanzar lo mas posible en el curso de python 
-**Today's Progress**:  aprendí a actualizar un elemento de un lista
+**Planes** Hacer curso de react native
+**Today's Progress**:  Estoy instalando nodejs y viendo como wea se usa, tambinen estoy aprendiendo acerca de react native y expo. en la mañana siguiente voy a ver si consigo instalar todo lo otro, tengo que estudiar para el parcial de mañana, hacer el practico y me parece que me voy a saturar un toque. Mañana voy a ver bien mis horarios para no estar tan al pedo como hoy
 
-**Thoughts:** Estoy emocionada ademas de que ya han anunciado el curso de css para el 8 de junio,
+**Thoughts:** Me siento bastante tranquila y con entusiasmo, voy a tratar de aprender todo lo que sea posible
 
 **Link to work:**
-libros_favoritos = ["El estafador" "jhon Grisham", "Fablehaven", "El señor de los anillos"]
-mejorsito_entre_todos = libros_favoritos[0]
-print(mejorsito_entre_todos)
-
-libros_favoritos[1] = "El niño de pijama a rayas"
-
-creacionde sub listas
-
-sub_lista = libros_favoritos[0:3]  #0 start hasta el 2 elemento  start:end
-# start: retorna los ultimos elementos de la lista
-#:end retorna los primeros elementos de la lista
-Tambien podemos saltarnos elementos de la lista
-
-
