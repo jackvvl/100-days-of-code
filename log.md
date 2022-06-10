@@ -233,3 +233,22 @@ Tambien podemos saltarnos elementos de la lista
 **Thoughts:** Me siento bastante tranquila y con entusiasmo, voy a tratar de aprender todo lo que sea posible
 
 **Link to work:**
+
+### Day 10:  8/6/22
+ 
+**Planes** Hacer curso de  css
+**Today's Progress**:  Me canse de instalar todas las cosas así que voy a hacer el cuso de css
+
+**Thoughts:** Me siento bastante tranquila
+
+**Link to work:**
+
+### Day 10:  9/6/22
+ 
+**Planes** Hacer curso de  css
+**Today's Progress**:  Estoy comenzando a hacer una pagina web uwu.
+
+**Thoughts:** Me siento bastante tranquila, ya pasó el examen de inglés así que ya me puedo dedicar mejor.
+
+**Link to work:**
+
