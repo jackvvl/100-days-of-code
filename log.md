@@ -252,3 +252,13 @@ Tambien podemos saltarnos elementos de la lista
 
 **Link to work:**
 
+### Day 10:  9/6/22
+ 
+**Planes** Hacer curso de  css
+**Today's Progress**:  Estoy comenzando a hacer una pagina web uwu.
+
+**Thoughts:** Lpm esta es la tercera vez que escribo estre dia porque me olvido de guardarlo xd no tengo anas de escribir todo el coso de vuelta total
+nadie va a leer tanto esto como para darse cuenta xd
+
+**Link to work:**
+
