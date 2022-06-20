@@ -252,7 +252,7 @@ Tambien podemos saltarnos elementos de la lista
 
 **Link to work:**
 
-### Day 10:  9/6/22
+### Day 11:  9/6/22
  
 **Planes** Hacer curso de  css
 **Today's Progress**:  Estoy comenzando a hacer una pagina web uwu.
@@ -262,3 +262,12 @@ nadie va a leer tanto esto como para darse cuenta xd
 
 **Link to work:**
 
+
+### Day 12:  9/6/22
+ 
+**Planes** Hacer curso de  css
+**Today's Progress**:  comencé el curso de desarrollo web yei
+
+**Thoughts:** y la verdad es que flask me tiene con las bolas por el piso menos mal que ya está terminando el curso, de cualquier forma me divertí porque aprendí cosas demasiado avanzadas para mi. Y bueno ya estoy comenzando el curso este de desarrollo web. 
+
+**Link to work:**
