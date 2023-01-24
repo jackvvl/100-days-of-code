@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+
+
+### Day ?:  0/0/00
+ 
+**Planes** 
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+
+
 ### Day 2:  19/5/22
 
 **Today's Progress**: He aprendido acerca de agregar favicon y a crear un favicon con la ayuda de https://realfavicongenerator.net/ y algunas etiquetas de html..
@@ -269,5 +284,68 @@ nadie va a leer tanto esto como para darse cuenta xd
 **Today's Progress**:  comencé el curso de desarrollo web yei
 
 **Thoughts:** y la verdad es que flask me tiene con las bolas por el piso menos mal que ya está terminando el curso, de cualquier forma me divertí porque aprendí cosas demasiado avanzadas para mi. Y bueno ya estoy comenzando el curso este de desarrollo web. 
+
+**Link to work:**
+
+
+### Day 13:  0/0/00
+ 
+**Planes** 
+Mis planes para hoy son terminar de configurar el problema de los plugins que ya se cual es mi problema los estoy insertando mal debido a que me falta el token para que funcionen, tambien tengo que ver si los puedo poner en secreto así puedo dejar el repositorio como público como para mostrar viste. Principalmente tengo en mente borrar todos los plugins e irlos poniendo yo misma uno por uno, lo que debo hacer entonces  es:
+
+1_ Debo chequear como era que se comenzaba con Metrics para no borrar nada de más (ver en la documentación)
+
+4_Ir poniendo
+
+**Today's Progress**: 
+comenzar a configurar mi readme 
+
+**Thoughts:** 
+Me siento bastante bien después de todo estoy haciendo algo que vengo alargando desde hace mucho tiempo.
+**Link to work:**
+
+
+### Day 13:  
+ 
+**Planes** 
+Hoy día mi objetivo es agregarle a mi github un plugin de mi lista de mangas. MI plan es:
+
+1_Ver en la documentación como agregar una lista de manga 
+
+**Today's Progress**:  
+Bueno al final no agregué una lista de manga pero pude darme cuenta que quiero agregar
+**Thoughts:** 
+Me siento bastante bien, me estoy pasando de horas en esto así creo que voy a tener que monitorear mejor mi tiempo
+
+**Link to work:**
+
+### Day 14:  0/0/00
+ 
+**Planes** 
+estoy tratando de encontrar el error de porque conchas metrics tira error, ojala logre solucionarse con lo que acabo de hacer. Bueno lo que voy ahacer despues va a ser:
+
+1 agregar un texto y poner un texto con 🌸 texto 🌸   🌼 🌺
+
+2 abajo voy a agregar un banner un gif de anime o algo así
+
+**Today's Progress**:  
+Al final me canse de no poder solucionar el error así que borré todo y comence de vuelta, lo bueno es que si se solucionó el problema y mi readme se va encaminando a su mejor era
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Day 15:  
+ 
+**Planes** 
+Hoy me voy adedicar a hacer que mi svg de metrics se convierta en 2 svg, para así poder ponerlos como si fueran dos columnas. Pasos:
+
+1_ Hacer que sean varias imagenes agregando name y todas las cositas aparte
+
+...... ver sie sta bien el tamaño de la letra,   ver el config display
+esta tardando mucho así que creo q va a tirar un error lpm
+**Today's Progress**:  
+
+**Thoughts:** 
 
 **Link to work:**
