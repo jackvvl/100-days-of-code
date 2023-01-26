@@ -344,8 +344,22 @@ Hoy me voy adedicar a hacer que mi svg de metrics se convierta en 2 svg, para as
 
 ...... ver sie sta bien el tamaño de la letra,   ver el config display
 esta tardando mucho así que creo q va a tirar un error lpm
+**Today's Progress**:  ok no funcionó, pero al menos si se empezó a ejecutar el bot de metrics
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 16:  25/1/22
+ 
+**Planes** 
+1- voy a ver si cual es el error si consigo saber y corregirlo (ojalá)
+2- sino funciona el paso 1, entonces tocara copiar todo e ir corrigiendo con lo mio mientras voy viendo los plugins que tengo 
+
 **Today's Progress**:  
 
 **Thoughts:** 
 
 **Link to work:**
+
