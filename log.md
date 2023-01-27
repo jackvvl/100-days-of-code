@@ -358,8 +358,19 @@ esta tardando mucho así que creo q va a tirar un error lpm
 2- sino funciona el paso 1, entonces tocara copiar todo e ir corrigiendo con lo mio mientras voy viendo los plugins que tengo 
 
 **Today's Progress**:  
-
+no se pudo burro :,v
 **Thoughts:** 
 
 **Link to work:**
+
+### Day 17:  
+ 
+**Planes** 
+Primero voy a ver si me respondieron en este coso, bueno ya me fijé y no me respondieron todavia, lo que voy a hacer va a ser buscar en la documentacion o en las discusiones,
+**Today's Progress**:  
+Hoy no avance mucho
+**Thoughts:** 
+Nose amigo en los workflows que vi se veia 200 veces más fácil, no estoy segura en que estoy fallando, espero hoy encontrar el error
+**Link to work:**
+
 
