@@ -373,4 +373,15 @@ Hoy no avance mucho
 Nose amigo en los workflows que vi se veia 200 veces más fácil, no estoy segura en que estoy fallando, espero hoy encontrar el error
 **Link to work:**
 
+### Day 18:  0/0/00
+ 
+**Planes** 
+Hoy voy a comenzar un curso de webflow para más o menos guíarme para hacer mi portafolio, el curso es de 21 días, tengo ganas de terminarlo antes de comenzar las clases ojalá se dé
+
+**Today's Progress**:  
+
+**Thoughts:** 
+ptm me he olvidadó de guardar mis otros dias bueno ya fue.
+**Link to work:**
+
 
