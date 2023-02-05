@@ -378,7 +378,10 @@ Nose amigo en los workflows que vi se veia 200 veces más fácil, no estoy segur
 **Planes** 
 Hoy voy a comenzar un curso de webflow para más o menos guíarme para hacer mi portafolio, el curso es de 21 días, tengo ganas de terminarlo antes de comenzar las clases ojalá se dé, pero la putam el curso era de no-code con razon estaba tan piola jajajaaj, entro a buscar en google que onda webflow y resulta que es como arrastrar las diferentes sections igualmete tengo que admitir si se ve como si estuvieras interactuando con código, está bastante piola pero bueno no es lo quiero hacer ahora, ya que se me ´prendió el foco voy a buscar algun curso para hacer mi portafolio.
 
+
 **Today's Progress**:  
+Hoy no avance demasiado, estaba en busca de cursos ya encontré uno, y estoy bastante feliz ya he pasado demasiadas horas frente a la computadora
+
 
 **Thoughts:** 
 ptm me he olvidadó de guardar mis otros dias bueno ya fue.
